@@ -1,0 +1,24 @@
+_repo: Weymouth-New-Testament-in-Modern-Speech-Revelation_8854
+creator:
+  author:
+    agent_name: Weymouth, Richard Francis
+    alias: Weymouth, R. F. (Richard Francis)
+    birthdate: 1822
+    deathdate: 1902
+    gutenberg_agent_id: '2897'
+    url: http://www.gutenberg.org/2009/agents/2897
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Francis_Weymouth
+description: ''
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Revelation'
+- !lcc 'BS'
+title: Weymouth New Testament in Modern Speech, Revelation
+url: http://www.gutenberg.org/ebooks/8854
